@@ -1,4 +1,4 @@
-let mySprite = sprites.create(img`
+let SebastianOruro = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
