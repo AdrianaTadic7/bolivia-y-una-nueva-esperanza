@@ -5,11 +5,16 @@
         "device": "*"
     },
     "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
         "assets.json",
         "tilemap.g.jres",
         "tilemap.g.ts"
     ],
-    "testFiles": [],
+    "testFiles": [
+        "test.ts"
+    ],
     "targetVersions": {
         "target": "1.4.45",
         "targetId": "arcade"
@@ -17,5 +22,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
