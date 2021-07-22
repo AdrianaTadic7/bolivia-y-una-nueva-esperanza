@@ -914,7 +914,7 @@ function nivel1 () {
         ...............eeeeee.eeeeee..............
         `, SpriteKind.diablo)
     Sebastian_Oruro_Diablada_Sara.ay = 300
-    Sebastian_Oruro_Diablada_Sara.setPosition(20, 0)
+    Sebastian_Oruro_Diablada_Sara.setPosition(30, 0)
     controller.moveSprite(Sebastian_Oruro_Diablada_Sara, 100, 0)
     scene.cameraFollowSprite(Sebastian_Oruro_Diablada_Sara)
     paloma = sprites.create(img`
